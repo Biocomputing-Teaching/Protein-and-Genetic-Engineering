@@ -26,7 +26,7 @@ We recommend you to get Ubuntu to start using Linux:
 
 [Get Ubuntu](https://ubuntu.com/)
 
-Besides, there are ways of having more than one OS in your personal computer that you can select at startup (when you turn on your computer). If you have a Windows computer and you want to keep your current OS, this is your option:
+Besides, there are ways of having more than one OS in your personal computer that you can select at startup (when you turn on your computer). If you have a Windows computer and you want to keep your current OS alongside your new Linux OS, this is your option:
 
 [How to set up a computer with dual-booting](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
 
@@ -36,11 +36,14 @@ Finally, if you don't want a second OS on your computer, you can set up a Linux 
 
 This last option is not highly recommended since you'll need a powerful computer to run two OSs efficiently.
 
-Before proceeding, we strongly recommend you to backup all your personal data before attempting any OS modification to your computers.
+Before proceeding, we strongly recommend you to backup all your personal data before attempting any OS modification to your computer.
 
 ### Installing the required programs
 
+After setting-up your computer with a Linux system or  if you have a macOS machine, then you must proceed to install the following programs:
+
 * Conda (Miniconda)
+
 First, we will need to install the [Miniconda](https://docs.conda.io/en/latest/) package manager:
 
 [Documentation for installing Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)

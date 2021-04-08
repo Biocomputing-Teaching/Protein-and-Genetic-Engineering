@@ -77,7 +77,7 @@ Once you have your license, you need to use the username and password provided a
 conda config --add channels https://USERNAME:PASSWORD@conda.graylab.jhu.edu
 ```
 
-Please, be sure you replace the uppercase words USERNAME and PASSWORD in the above command for the ones you got from the PyRosetta licensing. After that install PyRosetta with Conda:
+Please, be sure you replace the uppercase words USERNAME and PASSWORD in the above command for the ones you got from the PyRosetta licensing. After that, install PyRosetta with Conda:
 
 ```
 conda install pyrosetta

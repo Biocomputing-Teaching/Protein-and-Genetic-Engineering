@@ -11,7 +11,7 @@
 * Install Git
 * Install numpy, matplotlib
 
-For details in the installtion process, please see the course repository (see [course repository](https://github.com/Biocomputing-Teaching/Protein-and-Genetic-Engineering))
+For details in the installtion process, please see the [course repository](https://github.com/Biocomputing-Teaching/Protein-and-Genetic-Engineering))
 
 ### Get the files
 
